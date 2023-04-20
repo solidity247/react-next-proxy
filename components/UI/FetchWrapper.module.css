@@ -1,0 +1,7 @@
+.wrapper {
+    border: 1px grey solid;
+    width: 48%;
+    min-width: 200px;
+    height: 100%;
+    margin: 0 auto;
+}
